@@ -1,1 +1,1 @@
-live demo: https://farhankabiri.github.io/Weather-App/
+Live demo: https://farhankabiri.github.io/Weather-App/
